@@ -12,28 +12,28 @@ export default function Footer() {
                         <UsersRound className="text-[#707173] size-8" />
                         <div className="flex flex-col">
                             <p className="text-black font-semibold text-3xl">0</p>
-                            <p className="text-[#818285] text-2xl">Contributors</p>
+                            <p className="text-[#818285] font-medium   text-2xl">Contributors</p>
                         </div>
                     </div>
                     <div className="flex flex-row gap-4">
                         <CircleDot className="text-[#707173] size-8" />
                         <div className="flex flex-col">
                             <p className="text-black font-semibold text-3xl">0</p>
-                            <p className="text-[#818285] text-2xl">Issues</p>
+                            <p className="text-[#818285]  font-medium  text-2xl">Issues</p>
                         </div>
                     </div>
                     <div className="flex flex-row gap-4">
                         <Star className="text-[#707173] size-8" />
                         <div className="flex flex-col">
                             <p className="text-black font-semibold text-3xl">5</p>
-                            <p className="text-[#818285] text-2xl">Stars</p>
+                            <p className="text-[#818285] font-medium   text-2xl">Stars</p>
                         </div>
                     </div>
                     <div className="flex flex-row gap-4">
                         <GitFork className="text-[#707173] size-8" />
                         <div className="flex flex-col">
                             <p className="text-black font-semibold text-3xl">5</p>
-                            <p className="text-[#818285] text-2xl">Forks</p>
+                            <p className="text-[#818285]  font-medium  text-2xl">Forks</p>
                         </div>
                     </div>
 
